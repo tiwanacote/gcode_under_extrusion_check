@@ -1,7 +1,7 @@
 # gcode_under_extrusion_check
 This program detects under extrusion in perimeter gcode lines.
 
-USAGE: Just complete imput file name
+USAGE: >>>> python gcode_repair_V1.py   -  Just complete imput file name into code
  
  Output: 
 - Archive for visualization in CURA -----> Under extrusion is showes in yellow over perimeter line in red
